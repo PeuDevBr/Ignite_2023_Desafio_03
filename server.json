@@ -1,0 +1,40 @@
+{
+    "posts": [
+        {
+            "id" : 1,
+            "title" : "Uma breve introdução sobre Javascript",
+            "description" : "JavaScript é uma linguagem de programação de alto nível, dinâmica, interpretada e orientada a objetos. Ela é amplamente utilizada para desenvolver aplicações front-end e back-end para a web, além de ser usada em diversas outras áreas, como desenvolvimento de jogos, aplicativos desktop e mobile, entre outros.",
+            "createdAt" : "2023-04-21T22:15:37.073Z"
+        },
+        {
+            "id" : 2,
+            "title" : "Uma breve introdução sobre PHP",
+            "description" : "PHP é uma linguagem de script amplamente utilizada para desenvolvimento web do lado do servidor. Ela foi criada em 1995 por Rasmus Lerdorf e é especialmente adequada para a criação de sites dinâmicos, aplicativos web e sistemas de gerenciamento de conteúdo. O PHP é executado no servidor e é capaz de gerar HTML, CSS, JavaScript e outros tipos de arquivos que são exibidos no navegador do usuário.",
+            "createdAt" : "2023-04-19T22:15:37.073Z"
+        },
+        {
+            "id" : 3,
+            "title" : "Uma breve introdução sobre Python",
+            "description" : "Python é uma linguagem de programação de alto nível, interpretada, de tipagem dinâmica e multiplataforma. Foi criada por Guido van Rossum em 1991 e tem como principal objetivo ser fácil de ler e escrever, sendo frequentemente utilizada em diversas áreas como ciência de dados, inteligência artificial, desenvolvimento web, automação de tarefas, entre outras.",
+            "createdAt" : "2023-04-17T22:15:37.073Z"
+        },
+        {
+            "id" : 4,
+            "title" : "Uma breve introdução sobre C",
+            "description" : "Java é uma linguagem de programação orientada a objetos criada pela Sun Microsystems em 1995. A linguagem é popular por ser robusta, segura, portável e fácil de aprender. O Java é utilizado em uma ampla variedade de aplicativos, desde aplicativos web até aplicativos móveis e desktop.",
+            "createdAt" : "2023-04-13T22:15:37.073Z"
+        },
+        {
+            "id" : 5,
+            "title" : "Uma breve introdução sobre Rusty",
+            "description" : "Rust é uma linguagem de programação de sistemas desenvolvida pela Mozilla. Ela é projetada para ser segura, concorrente e prática, oferecendo desempenho comparável a linguagens de baixo nível, como C e C++, mas com uma sintaxe mais amigável e recursos de segurança avançados, como verificação de memória em tempo de compilação e prevenção de condições de corrida. Rust é uma linguagem compilada e estática, o que significa que os programas são convertidos em código de máquina antes de serem executados, oferecendo uma alta eficiência de tempo de execução.",
+            "createdAt" : "2023-04-08T22:15:37.073Z"
+        },
+        {
+            "id" : 6,
+            "title" : "Uma breve introdução sobre C++",
+            "description" : "C++ é uma linguagem de programação de alto nível que é amplamente usada em aplicações que requerem alto desempenho, como sistemas operacionais, jogos, software de servidor, aplicativos de desktop e aplicativos móveis. Ela é derivada da linguagem C e, portanto, possui muitos recursos semelhantes, como controle de fluxo, operadores aritméticos e de atribuição, ponteiros e estruturas de dados.",
+            "createdAt" : "2023-04-03T22:15:37.073Z"
+        }
+    ]
+}
